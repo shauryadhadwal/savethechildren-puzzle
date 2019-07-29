@@ -20,16 +20,17 @@ window.onload = function () {
     /*16*/['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'],
     ];
 
-    var clues = ["On the 20th day of this month is when the International Child rights day is celebrated globally.",
-        "A convention emphasizing on basic rights for children adopted by the UN, on 20 November 1989.",
-        "The Convention of the Rights of the Child has 53 Articles categorized under ------------- groups of rights.",
-        "This is the name of a prominent non-governmental organisation   working for the Rights of Children which is based out of India.",
-        " This category of Rights has given access to a child to take active role in their communities and nations.",
-        "A popular democracy which is yet to ratify with the CRC.",
-        "The Right to ----------- entitles a child to holistic mental and physical growth and development.",
-        "Category of child rights that mandates, children be safeguarded against all forms of abuse, neglect and exploitation.",
+    var clues = [
+        "The 20th day of this month is celebrated as International Child rights day.",
+        "The convention emphasising on basic rights for children adopted by the UN on 20 November 1989.",
+        "The Convention of the Rights of the Child has 53 Articles categorised under _________ groups of rights.",
+        "This is the name of a prominent non-governmental organisation working for the Rights of Children which is based out of India.",
+        "This category of Rights has given access to children to play active role in their communities and nations .",
+        "A popular democracy which is yet to ratify the CRC.",
+        "The Right to ________ entitles a child to holistic mental and physical growth and development.",
+        "Category of child rights that mandates children be safeguarded against all forms of abuse, neglect and exploitation.",
         "This nation ratified the UNCRC in 1992.",
-        "One gets a license, and another gets the right to vote but for a child, at this age and below, is what defines them.",
+        "One gets a license and another gets the right to vote but for children at this age and below is what defines them."
     ];
 
     var answers = [
